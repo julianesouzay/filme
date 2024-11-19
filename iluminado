@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recomendação de Filmes</title>
+</head>
+<body>
+    <h1>O Iluminado</h1>
+    <p>O Iluminado (The Shining) é um dos maiores clássicos do gênero de terror, dirigido por Stanley Kubrick e baseado no livro de Stephen King. A história segue Jack Torrance, um escritor que, enquanto cuida de um hotel isolado com sua família, começa a perder sua sanidade devido a forças sobrenaturais que habitam o local.</p>
+
+    <h2>Atores principais:</h2>
+    <ul>
+        <li>Jack Nicholson</li>
+        <li>Shelley Duvall</li>
+        <li>Danny Lloyd</li>
+        <li>Scatman Crothers</li>
+    </ul>
+
+    <h2>Mais informações sobre o filme:</h2>
+    <a href="https://www.imdb.com/title/tt0081505/" target="_blank">Clique aqui para ver mais sobre "O Iluminado" no IMDb</a>
+
+    <h2>Filmes Recomendados:</h2>
+    <ol>
+        <li><a href="https://www.imdb.com/title/tt0078480/" target="_blank">Psicose (1960)</a></li>
+        <li><a href="https://www.imdb.com/title/tt0103923/" target="_blank">O Exorcista (1973)</a></li>
+        <li><a href="https://www.imdb.com/title/tt0117407/" target="_blank">O Sexto Sentido (1999)</a></li>
+    </ol>
+</body>
+</html>
